@@ -1,0 +1,17 @@
+.card .card-image{
+    overflow: hidden;
+}
+
+.card{
+    margin-top: 10px;
+    position: relative;
+}
+
+.card .card-content {
+    padding: 10px;    
+}
+
+.card .card-content .card-title, .card-reveal .card-title{
+    font-size: 24px;
+    font-weight: 200;    
+}
